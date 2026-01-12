@@ -62,6 +62,18 @@ Aplicar meus conhecimentos em um ambiente profissional, aprender com pessoas mai
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniconceicao&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniconceicao&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
 <p align="center">
   <i>Aprendendo e evoluindo um pouco todos os dias.</i>
 </p>
