@@ -3,7 +3,7 @@
 <p align="center">
 🎓 Estudante de Sistemas de Informação <br>
 💻 Interessado em desenvolvimento de software e backend <br>
-🚀 Buscando oportunidade de estágio ou vaga júnior
+🚀 Buscando oportunidade a primeira oportunidade.
 </p>
 
 ---
@@ -11,13 +11,11 @@
 ## 🧠 Sobre mim
 
 Sou estudante de Sistemas de Informação, com interesse em tecnologia e desenvolvimento de software.  
-Tenho foco em backend, automação e desenvolvimento de bots, especialmente para comunidades online.
-
 Atualmente estou aprimorando meus conhecimentos em programação, organização de código e boas práticas de desenvolvimento.
 
 ---
 
-## 📚 Estudando atualmente
+## 📚 Estudando
 
 - TypeScript
 - Node.js
@@ -51,7 +49,7 @@ Atualmente estou aprimorando meus conhecimentos em programação, organização 
 
 ## 📌 Objetivo
 
-Aplicar meus conhecimentos em um ambiente profissional, aprender com pessoas mais experientes e evoluir como desenvolvedor, contribuindo de forma responsável e contínua.
+Aplicar meus conhecimentos em um ambiente profissional, aprender com pessoas mais experientes e evoluir como desenvolvedor.
 
 ---
 
@@ -63,5 +61,5 @@ Aplicar meus conhecimentos em um ambiente profissional, aprender com pessoas mai
 ---
 
 <p align="center">
-  <i>Aprendendo e evoluindo um pouco todos os dias.</i>
+  <i>Aprendendo um pouco todos os dias.</i>
 </p>
